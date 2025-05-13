@@ -10,6 +10,7 @@ Directory structure
 
 
 .
+
 ├── devices.yaml
 
 ├── commands.txt
