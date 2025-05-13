@@ -1,0 +1,5 @@
+hostname Test1
+interface Loopback0
+ ip address 1.1.1.1 255.255.255.255
+ no shutdown
+end
