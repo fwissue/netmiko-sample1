@@ -1,16 +1,20 @@
-cisco_switches:
+switches:
   - device_type: cisco_ios
     host: 192.168.1.1
     username: admin
     password: your_password
     secret: enable_password
+
   - device_type: cisco_ios
     host: 192.168.1.2
     username: admin
     password: your_password
     secret: enable_password
+
+routers:
   - device_type: cisco_ios
-    host: 192.168.1.3
+    host: 192.168.2.1
     username: admin
     password: your_password
     secret: enable_password
+
