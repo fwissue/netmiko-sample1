@@ -6,3 +6,8 @@ netmiko-env\Scripts\activate
 
 pip install netmiko pyyaml
 
+Directory structure
+.
+├── devices.yaml
+├── commands.txt
+└── netmiko_runner.py
